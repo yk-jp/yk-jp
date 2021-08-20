@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm yusuke! 👋
+
+My GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yk-jp"/></p>
+
+My Coding Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-jp"/></p>
 
 <!--
 **yk-jp/yk-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
