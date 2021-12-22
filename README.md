@@ -2,10 +2,16 @@
 
 My GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yk-jp"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yk-jp&theme=onedark"/></p>
 
 My Coding Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-jp"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-jp&theme=onedark"/></p>
+
+Github Profile Trophy 
+
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yk-jp&theme=onedark"></p>
+
 
 <!--
 **yk-jp/yk-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
