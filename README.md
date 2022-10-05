@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yk-jp&label=Profile%20views&color=0e75b6&style=flat" alt="yk-jp" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-yk-jp.vercel.app/](https://portfolio-yk-jp.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yk-jp-portfolio.vercel.app/](https://yk-jp-portfolio.vercel.app/)
 
 - 📫 How to reach me **k82.y12@gmail.com**
 
