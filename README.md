@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusukekohatsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusukekohatsu" height="30" width="40" /></a>
-<a href="https://discord.gg/#6223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6223" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yk-jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yk-jp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Holopin badges</h3>
