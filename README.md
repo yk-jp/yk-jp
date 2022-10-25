@@ -1,8 +1,8 @@
 <img align="center" src="img/title.png">
 
 - 🌱 I’m currently learning **AWS and Go**
-- 👨‍💻 All of my projects are available at [https://yk-jp-portfolio.vercel.app/](https://yk-jp-portfolio.vercel.app/)
-
+- 👨‍💻 All of my projects are available at [here](https://yk-jp-portfolio.vercel.app/)
+- 📄 Please take a look at my [resume](https://github.com/yk-jp/portfolio-v2/blob/main/public/resume.pdf)
 - 📫 How to reach me **k82.y12@gmail.com**
 
 <h3 align="left">Connect with me</h3>
