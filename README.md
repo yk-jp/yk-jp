@@ -1,6 +1,6 @@
 <img align="center" src="img/title.png">
 
-- 🌱 I’m currently learning ** Go, AWS and Blockchain**
+- 🌱 I’m currently learning **Go, AWS and Blockchain**
 - 👨‍💻 All of my projects are available at [here](https://yk-jp-portfolio.vercel.app/)
 - 📄 Please take a look at my [resume](https://github.com/yk-jp/portfolio-v2/blob/main/public/resume.pdf)
 - 📫 How to reach me **k82.y12@gmail.com**
