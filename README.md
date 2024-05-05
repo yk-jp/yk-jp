@@ -1,21 +1,31 @@
-<img align="center" src="img/title.png">
+<h2 align="left">Hi 👋! My name is Yusuke and I'm a Backend Developer, from Japan!</h2>
 
-- 👨‍💻 All of my projects are available at [here](https://yk-jp-portfolio.vercel.app/)
-- 📄 Please take a look at my [resume](https://github.com/yk-jp/portfolio-v2/blob/main/public/resume.pdf)
-- 📫 How to reach me **k82.y12@gmail.com**
+###
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yusukekohatsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusukekohatsu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Holopin badges</h3>
-
-[![@ykjp's Holopin board](https://holopin.me/ykjp)](https://holopin.io/@ykjp)
-
-<h3 align="left">GitHub Stats</h3>
-
-<div style="display: flex; flex-direction: row;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yk-jp&theme=dark&show_icons=true&locale=en&layout=compact" alt="yk-jp" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yk-jp&theme=dark&show_icons=true&locale=en" alt="yk-jp" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yk-jp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yk-jp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="img/ナッツ.png"  />
+
+###
+
+<div align="left">
+  <a href="mailto:k82.y12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yusukekohatsu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yk-jp/yk-jp/output/snake.svg" alt="Snake animation" />
+
+###
